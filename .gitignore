@@ -1,0 +1,8 @@
+*.o
+*.so
+*.dylib
+*.bc
+tests/backend_test
+tests/cuda_test
+__pycache__/
+results/

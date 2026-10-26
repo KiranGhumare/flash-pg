@@ -1,0 +1,5 @@
+comment = 'Experimental CUDA GFTR grouped aggregation for PostgreSQL 18'
+default_version = '0.1.0'
+module_pathname = '$libdir/pg_gftr'
+relocatable = true
+superuser = true
